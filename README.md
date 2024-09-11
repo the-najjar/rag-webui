@@ -26,8 +26,8 @@ This project is a web-based RAG (Retrieval-Augmented Generation) interface that 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/rag-interface.git
-   cd rag-interface
+   git clone https://github.com/yourusername/rag-webui.git
+   cd rag-webui
    ```
 
 2. Install Ollama following the instructions on the [Ollama website](https://ollama.ai/).
